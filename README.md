@@ -1,4 +1,4 @@
-# 👟 Neo Sneaker Showcase
+# 👟 Sneaker Showcase
 
 A premium futuristic sneaker collection website built with cinematic animations, immersive product presentation, and luxury ecommerce-inspired motion design.
 
@@ -73,4 +73,4 @@ Massive premium ending section with immersive visuals.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/JeeveshwaranJ/sneaker-showcase.git
