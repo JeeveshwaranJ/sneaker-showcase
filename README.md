@@ -67,6 +67,12 @@ Fashion-inspired cinematic layouts and typography.
 Massive premium ending section with immersive visuals.
 
 ---
+## 📸 Preview
+
+### Hero Section
+![Preview](./screenshots/hero.png)
+
+---
 
 ## 🚀 Getting Started
 
