@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👟 Neo Sneaker Showcase
 
-## Getting Started
+A premium futuristic sneaker collection website built with cinematic animations, immersive product presentation, and luxury ecommerce-inspired motion design.
 
-First, run the development server:
+Designed to feel like a high-end digital sneaker showroom with smooth transitions, floating product showcases, and interactive visual storytelling.
+
+---
+
+## ✨ Features
+
+- 🔥 Cinematic Hero Carousel
+- 👟 Horizontal Sneaker Showcase
+- 🎬 Smooth Luxury Animations
+- 🌊 Lenis Smooth Scroll
+- 💎 Premium UI/UX Design
+- 🎭 Interactive Product Presentation
+- ⚡ GSAP + Framer Motion Animations
+- 🌀 3D Rotation Effects
+- 🌌 Dynamic Background Transitions
+- 📱 Fully Responsive Design
+- 🚀 Optimized Next.js Architecture
+
+---
+
+## 🛠️ Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Framer Motion
+- GSAP
+- Lenis
+- Three.js
+- React Three Fiber
+
+---
+
+## 🎨 Design Inspiration
+
+Inspired by:
+- Luxury sneaker campaigns
+- Awwwards-winning websites
+- Apple-style motion design
+- Fashion-tech ecommerce experiences
+- Interactive digital showrooms
+
+---
+
+## 📸 Website Sections
+
+### Hero Carousel
+Fullscreen sneaker showcase with cinematic transitions and floating animations.
+
+### Featured Collection
+Interactive sneaker cards with hover effects and premium layouts.
+
+### Product Detail Showcase
+Immersive sneaker closeups with animated presentation.
+
+### Infinite Sneaker Gallery
+Smooth horizontally moving sneaker showcase.
+
+### Streetwear Campaign Section
+Fashion-inspired cinematic layouts and typography.
+
+### Final CTA
+Massive premium ending section with immersive visuals.
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
